@@ -1,2 +1,1 @@
-New Malware called SystemBricker.bat is finally released
-You can download here
+All my malware and source code are posted here
